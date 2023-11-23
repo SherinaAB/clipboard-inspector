@@ -191,3 +191,12 @@ h1 + p {
 		margin: 0;
 	}
 }
+
+div.source,
+div.target {
+	border: 1px solid green;
+	margin: 1.5rem;
+	padding: 0.5rem;
+	height: 2rem;
+	background-color: #e9eef1;
+}
